@@ -389,12 +389,7 @@ Exemple de structure attendue :
 -Classe 3 :[adherents]-Attributs : id   , nom de la perssonne         -Role : ses le compte des personne qui sont adherent a la bibliotheque 
 
 -Relation :                    
-                    [adherents]_ _ _ _ _ _ [livre]
-                                     |
-                                     |
-                                     |
-                                     |
-                                 [Emprunt]
+        emprunt extends livre et adherents 
 
 
 _______________________________________________________________________________
