@@ -334,7 +334,7 @@ class Compteur {
     public void incrementer() {
         this.valeur++;
     }
-    
+     
     public int getValeur() {
         return this.valeur;
     }
