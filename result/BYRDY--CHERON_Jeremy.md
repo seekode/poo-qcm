@@ -1,6 +1,6 @@
 # Examen Programmation Orientee Objet (POO)
 
-**Nom:** **\*\*\*\***\_\_\_**\*\*\*\***  
+**Nom:** _BYRDY--CHERON Jérémy_  
 **Total:** 20 points (1 point par question)
 
 ---
