@@ -1,6 +1,7 @@
 # Examen Programmation Orientee Objet (POO)
 
-**Nom:** ___________________  
+**Nom:**  Mahut Killian 
+
 **Total:** 20 points (1 point par question)
 
 ---
@@ -20,7 +21,7 @@ ___
 Quelle est la difference entre une classe et un objet ?
 
 - [ ] A) Il n'y a aucune difference, les deux termes sont synonymes
-- [ ] B) Une classe est un modele (plan), un objet est une instance concrete de ce modele
+- [X] B) Une classe est un modele (plan), un objet est une instance concrete de ce modele
 - [ ] C) Un objet est un modele, une classe est une instance de cet objet
 - [ ] D) Une classe contient uniquement des methodes, un objet contient uniquement des attributs
 
@@ -30,7 +31,7 @@ Quelle est la difference entre une classe et un objet ?
 A quoi sert le mot-cle `this` dans une classe ?
 
 - [ ] A) A creer une nouvelle instance de la classe
-- [ ] B) A faire reference a l'instance courante de l'objet
+- [X] B) A faire reference a l'instance courante de l'objet
 - [ ] C) A appeler le constructeur de la classe parente
 - [ ] D) A declarer une variable statique
 
@@ -40,7 +41,7 @@ A quoi sert le mot-cle `this` dans une classe ?
 Quelle est la difference entre `private` et `protected` ?
 
 - [ ] A) `private` est accessible partout, `protected` uniquement dans la classe
-- [ ] B) `private` est accessible uniquement dans la classe, `protected` dans la classe et ses sous-classes
+- [X] B) `private` est accessible uniquement dans la classe, `protected` dans la classe et ses sous-classes
 - [ ] C) Il n'y a aucune difference
 - [ ] D) `protected` est accessible partout, `private` uniquement dans les sous-classes
 
@@ -50,7 +51,7 @@ Quelle est la difference entre `private` et `protected` ?
 Quel est le role du constructeur dans une classe ?
 
 - [ ] A) Detruire l'objet quand il n'est plus utilise
-- [ ] B) Initialiser l'objet lors de sa creation
+- [X] B) Initialiser l'objet lors de sa creation
 - [ ] C) Copier un objet existant
 - [ ] D) Convertir l'objet en chaine de caracteres
 
@@ -60,7 +61,7 @@ Quel est le role du constructeur dans une classe ?
 Que permet l'heritage en POO ?
 
 - [ ] A) De creer des variables globales
-- [ ] B) De reutiliser et d'etendre le comportement d'une classe existante
+- [X] B) De reutiliser et d'etendre le comportement d'une classe existante
 - [ ] C) D'executer du code en parallele
 - [ ] D) De crypter les donnees de la classe
 
@@ -70,7 +71,7 @@ Que permet l'heritage en POO ?
 Qu'est-ce qu'une classe abstraite ?
 
 - [ ] A) Une classe qui ne peut pas avoir de methodes
-- [ ] B) Une classe qui ne peut pas etre instanciee directement et peut contenir des methodes abstraites
+- [X] B) Une classe qui ne peut pas etre instanciee directement et peut contenir des methodes abstraites
 - [ ] C) Une classe qui est automatiquement supprimee apres utilisation
 - [ ] D) Une classe qui ne peut avoir qu'une seule instance
 
@@ -82,7 +83,7 @@ Quel est le role d'une interface en POO ?
 - [ ] A) Stocker des donnees de configuration
 - [ ] B) Definir un contrat que les classes implementantes doivent respecter
 - [ ] C) Optimiser les performances du programme
-- [ ] D) Gerer la connexion a une base de donnees
+- [X] D) Gerer la connexion a une base de donnees
 
 ---
 
@@ -90,7 +91,7 @@ Quel est le role d'une interface en POO ?
 Quel est l'objectif du pattern Singleton ?
 
 - [ ] A) Permettre a une classe d'avoir plusieurs constructeurs
-- [ ] B) Garantir qu'une classe n'a qu'une seule instance dans toute l'application
+- [X] B) Garantir qu'une classe n'a qu'une seule instance dans toute l'application
 - [ ] C) Creer automatiquement des copies d'objets
 - [ ] D) Permettre l'heritage multiple
 
@@ -100,7 +101,7 @@ Quel est l'objectif du pattern Singleton ?
 Quelle est la difference entre une methode statique et une methode d'instance (dynamique) ?
 
 - [ ] A) Une methode statique est plus rapide qu'une methode d'instance
-- [ ] B) Une methode statique appartient a la classe elle-meme et peut etre appelee sans instancier la classe
+- [X] B) Une methode statique appartient a la classe elle-meme et peut etre appelee sans instancier la classe
 - [ ] C) Une methode d'instance ne peut pas acceder aux attributs de l'objet
 - [ ] D) Il n'y a aucune difference fonctionnelle
 
@@ -110,7 +111,7 @@ Quelle est la difference entre une methode statique et une methode d'instance (d
 Qu'est-ce que le polymorphisme en POO ?
 
 - [ ] A) La capacite d'une classe a heriter de plusieurs classes
-- [ ] B) La capacite d'un objet a prendre plusieurs formes et a etre traite via une interface commune
+- [X] B) La capacite d'un objet a prendre plusieurs formes et a etre traite via une interface commune
 - [ ] C) La possibilite de creer des variables de plusieurs types
 - [ ] D) La capacite de changer le nom d'une classe a l'execution
 
@@ -120,7 +121,7 @@ Qu'est-ce que le polymorphisme en POO ?
 Qu'est-ce que la surcharge de methodes ?
 
 - [ ] A) Remplacer une methode heritee par une nouvelle implementation
-- [ ] B) Definir plusieurs methodes avec le meme nom mais des signatures differentes
+- [X] B) Definir plusieurs methodes avec le meme nom mais des signatures differentes
 - [ ] C) Appeler une methode plusieurs fois de suite
 - [ ] D) Rendre une methode plus performante
 
@@ -130,7 +131,7 @@ Qu'est-ce que la surcharge de methodes ?
 Qu'est-ce que la redefinition de methodes ?
 
 - [ ] A) Definir plusieurs methodes avec le meme nom dans la meme classe
-- [ ] B) Fournir une nouvelle implementation d'une methode heritee dans une sous-classe
+- [X] B) Fournir une nouvelle implementation d'une methode heritee dans une sous-classe
 - [ ] C) Supprimer une methode de la classe parente
 - [ ] D) Renommer une methode existante
 
@@ -140,7 +141,7 @@ Qu'est-ce que la redefinition de methodes ?
 A quoi sert le mot-cle `super` ?
 
 - [ ] A) A creer une super-classe
-- [ ] B) A acceder aux membres de la classe parente depuis une sous-classe
+- [X] B) A acceder aux membres de la classe parente depuis une sous-classe
 - [ ] C) A rendre une methode plus puissante
 - [ ] D) A declarer une classe finale
 
@@ -149,7 +150,7 @@ A quoi sert le mot-cle `super` ?
 ### Question 14 - Les attributs statiques
 Qu'est-ce qu'un attribut statique ?
 
-- [ ] A) Un attribut qui ne peut jamais etre modifie
+- [X] A) Un attribut qui ne peut jamais etre modifie
 - [ ] B) Un attribut partage par toutes les instances de la classe
 - [ ] C) Un attribut qui est automatiquement initialise a null
 - [ ] D) Un attribut qui n'est accessible que dans le constructeur
@@ -160,7 +161,7 @@ Qu'est-ce qu'un attribut statique ?
 Quelle est la principale difference entre une classe abstraite et une interface ?
 
 - [ ] A) Une interface peut contenir des implementations de methodes, pas une classe abstraite
-- [ ] B) Une classe abstraite peut contenir des implementations et des attributs, une interface definit uniquement des signatures
+- [X] B) Une classe abstraite peut contenir des implementations et des attributs, une interface definit uniquement des signatures
 - [ ] C) Une classe ne peut implementer qu'une seule interface
 - [ ] D) Il n'y a aucune difference
 
@@ -195,20 +196,8 @@ public class DatabaseConnection {
 ```
 
 **Expliquez pourquoi le constructeur est prive et comment ce code garantit qu'il n'y aura qu'une seule instance de la classe DatabaseConnection.**
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
+---
+Le constructeur est privé car on utilise bien private juste devant le nom du constructeur ce qui nous montre qu'il est bien privé et il n'y aura qu'une seule instance pour cette classe car on l'utilise en static ce qui va nous donner une seule instance.
 
 ---
 
@@ -255,18 +244,12 @@ class Chat extends Animal {
 ```
 
 **Expliquez le role de `abstract`, `extends`, `super` et `@Override` dans ce code. Que se passe-t-il (de façon détaillé) si on essaie de faire `new Animal("Test")` ?**
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
+---
+Le mot clé Abstract sert a déclarer la classe Animal en tant que classe abstraite.
+Extends sert pour établir un lien de type héritage entre chaques classes. Par exemple si on prend la classe Chien (Chien extends Animal), Chien est la sous classe de la classe Animal et Animal la super-classe donc Chien obtient forcément les méthodes de la classe Animal comme c'est sa sous classe.
+Super sert a appeler le constructeur de la super-classe qui est Animal.
+@Override est utilisé pour faire un marquage sur une méthode qui se trouve dans une sous classe. Dans le code elle est utilisé pour implémenter la méthode abstraite parler().
+Si on fait new Animal("Test) on va avoir une erreur qui dit : "Cannot be instantiated"
 
 ---
 
@@ -304,18 +287,10 @@ class Voiture implements Vehicule {
 ```
 
 **Expliquez ce qu'est une interface, pourquoi on utilise `implements` et ce qui se passe si la classe `Voiture` n'implemente pas toutes les methodes de l'interface.**
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
+---
+L'interface c'est la partie du code qui contient seulement l'appel des méthodes avec leur mots clés, il n'y a pas de structure ou de corps de code comme pour les classes.
+Impléments est utilisé pour la classe concrète Voiture, ca sert a verifier si cette classe respecte l'interface.
+Si la classe Voiture n'implémente pas toutes les méthodes de l'interface cela peut provoquer une erreur de compilation
 
 ---
 
@@ -349,6 +324,7 @@ class Compteur {
 
 **Expliquez la difference entre `nombreInstances` (statique) et `valeur` (dynamique). Si on cree 3 instances de `Compteur` et qu'on appelle `incrementer()` une fois sur chacune, quelle sera la valeur de `getNombreInstances()` et de `getValeur()` pour chaque instance ?**
 
+
 _______________________________________________________________________________
 
 _______________________________________________________________________________
@@ -377,21 +353,12 @@ Exemple de structure attendue :
 - Classe 3 : [Nom] - Attributs : ... - Role : ...
 - Relation : ...
 
-_______________________________________________________________________________
+classe 1 : Livre - Attribut : Titre, Auteur, Année, estEmprunté - Role : représentation d'un livre/ouvrage.
 
-_______________________________________________________________________________
+classe 2 : Client - Attribut : idClient, Nom, Adresse, livreEmprunté - Role : Représente les clients inscrits a la bibliothéque et les autorisations.
+---
 
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
+classe 3 : Bibliothéque - Attribut : Nom, Adresse, Collection, listClient - Role : classe d'entrée qui gère les livres et les opérations (retour, prêt et problèmes liés). 
 
 ---
 
